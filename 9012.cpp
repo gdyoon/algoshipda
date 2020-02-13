@@ -19,7 +19,6 @@ int main() {
 				s.push(c[j]);
 			}
 			if (c[j] == ')') {
-				// '('가 없는데, ')'가 남은 경우 
 				if (s.empty()) {
 					ans = "NO";
 					break;
