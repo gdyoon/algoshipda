@@ -1,5 +1,5 @@
-#include<cstdio>
-#include<cstring>
+#include <cstdio>
+#include <cstring>
 #include <stack>
 using namespace std;
 
